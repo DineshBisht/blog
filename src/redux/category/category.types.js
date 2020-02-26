@@ -1,0 +1,2 @@
+export const CATEGORY_REQUEST = 'CATEGORY_REQUEST';
+export const CATEGORY_LIST    = 'CATEGORY_LIST'
